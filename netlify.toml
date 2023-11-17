@@ -414,10 +414,6 @@
   to="/docs/data-collection/vpns/libreswan-ipsec"
 
 [[redirects]]
-  from="/docs/agent/collectors/charts.d.plugin/nut"
-  to="/docs/data-collection/ups/nut"
-
-[[redirects]]
   from="/docs/agent/collectors/charts.d.plugin/opensips"
   to="/docs/data-collection/telephony-servers/opensips"
 
@@ -1154,10 +1150,6 @@
   to="/docs/alerting/notifications/netdata-agent-notifications/sms-server"
 
 [[redirects]]
-  from="/docs/agent/health/notifications/stackpulse"
-  to="/docs/alerting/notifications/netdata-agent-notifications/stackpulse"
-
-[[redirects]]
   from="/docs/agent/health/notifications/syslog"
   to="/docs/alerting/notifications/netdata-agent-notifications/syslog"
 
@@ -1508,10 +1500,6 @@
 [[redirects]]
   from="/docs/configure/start-stop-restart"
   to="/docs/maintaining/starting-and-stopping-netdata-agents"
-
-[[redirects]]
-  from="/docs/dashboard/dimensions-contexts-families"
-  to="/docs/data-collection/chart-dimensions-contexts-and-families"
 
 [[redirects]]
   from="/docs/dashboard/import-export-print-snapshot"
@@ -2508,10 +2496,6 @@
 [[redirects]]
   from="/docs/data-collection/monitor-anything/Hardware/Wire-sensors"
   to="/docs/data-collection/hardware-devices-and-sensors/wire-sensors"
-
-[[redirects]]
-  from="/docs/data-collection/monitor-anything/Hardware/UPS-PDU"
-  to="/docs/data-collection/ups/nut"
 
 [[redirects]]
   from="/docs/data-collection/monitor-anything/Hardware/Sensors"
@@ -3638,10 +3622,6 @@
   to="/docs/data-collection/hardware-devices-and-sensors/wire-sensors"
 
 [[redirects]]
-  from="/docs/data-collection/monitor-anything/hardware/ups-pdu"
-  to="/docs/data-collection/ups/nut"
-
-[[redirects]]
   from="/docs/data-collection/monitor-anything/hardware/sensors"
   to="/docs/data-collection/hardware-devices-and-sensors/linux-machine-sensors"
 
@@ -3954,26 +3934,6 @@
   to="/docs/alerting/notifications/netdata-cloud-notifications/manage-notification-methods"
 
 [[redirects]]
-  from="/docs/alerts-and-notifications/notifications/cloud-alert-notifications/add-webhook-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-webhook-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/cloud-alert-notifications/add-slack-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-slack-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/cloud-alert-notifications/add-pagerduty-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-pagerduty-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/cloud-alert-notifications/add-opsgenie-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-opsgenie-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/cloud-alert-notifications/add-discord-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-discord-notification-configuration"
-
-[[redirects]]
   from="/docs/alerts-and-notifications/notifications/cloud-alert-notifications"
   to="/docs/alerting/notifications/netdata-cloud-notifications"
 
@@ -3988,10 +3948,6 @@
 [[redirects]]
   from="/docs/alerts-and-notifications/notifications/agent-alert-notifications/syslog"
   to="/docs/alerting/notifications/netdata-agent-notifications/syslog"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/agent-alert-notifications/stackpulse"
-  to="/docs/alerting/notifications/netdata-agent-notifications/stackpulse"
 
 [[redirects]]
   from="/docs/alerts-and-notifications/notifications/agent-alert-notifications/sms-server"
@@ -4108,10 +4064,6 @@
 [[redirects]]
   from="/docs/miscellaneous/live-demos"
   to="/docs//live-demo"
-
-[[redirects]]
-  from="/docs/nightly/operations/alerts/add-mattermost-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-mattermost-notification-configuration"
 
 [[redirects]]
   from="/docs/typical-netdata-agent-configurations/troubleshoot-agent-cloud-connectivity-issues"
@@ -4742,30 +4694,6 @@
   to="/docs/alerting/notifications/netdata-cloud-notifications/manage-alert-notification-silencing-rules"
 
 [[redirects]]
-  from="/docs/alerts-and-notifications/notifications/netdata-cloud-notifications/add-webhook-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-webhook-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/netdata-cloud-notifications/add-slack-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-slack-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/netdata-cloud-notifications/add-pagerduty-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-pagerduty-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/netdata-cloud-notifications/add-opsgenie-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-opsgenie-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/netdata-cloud-notifications/add-mattermost-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-mattermost-notification-configuration"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/netdata-cloud-notifications/add-discord-notification-configuration"
-  to="/docs/alerting/notifications/netdata-cloud-notifications/add-discord-notification-configuration"
-
-[[redirects]]
   from="/docs/alerts-and-notifications/notifications/netdata-cloud-notifications"
   to="/docs/alerting/notifications/netdata-cloud-notifications"
 
@@ -4780,10 +4708,6 @@
 [[redirects]]
   from="/docs/alerts-and-notifications/notifications/netdata-agent-notifications/syslog"
   to="/docs/alerting/notifications/netdata-agent-notifications/syslog"
-
-[[redirects]]
-  from="/docs/alerts-and-notifications/notifications/netdata-agent-notifications/stackpulse"
-  to="/docs/alerting/notifications/netdata-agent-notifications/stackpulse"
 
 [[redirects]]
   from="/docs/alerts-and-notifications/notifications/netdata-agent-notifications/sms-server"
